@@ -77,7 +77,7 @@ For GPU runs, use a CUDA-enabled machine or open notebooks in Google Colab.
 
 ## Credits
 
-These projects were completed as part of coursework under the supervision of Professor [Sumohana Channappayya], [Electrical Department], [IIT Hyderabad].
+These projects were completed as part of coursework under the supervision of Professor Sumohana Channappayya (Electrical Department) during deeplearning AI2100 at IIT Hyderabad.
  
 
 ## Contact / Author
