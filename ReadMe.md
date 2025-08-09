@@ -74,6 +74,12 @@ For GPU runs, use a CUDA-enabled machine or open notebooks in Google Colab.
 
 - Give credit for datasets and references in each project README.md.
 
+
+## Credits
+
+These projects were completed as part of coursework under the supervision of Professor [Sumohana Channappayya], [Electrical Department], [IIT Hyderabad].
+ 
+
 ## Contact / Author
 Kushwanth Ch — GitHub: Kushwanthchitipotu
 
